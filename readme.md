@@ -5,5 +5,7 @@
 ### To Run
 
 `poetry install`
+
 `poetry shell`
+
 `./main.py`
