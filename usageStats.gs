@@ -91,6 +91,7 @@ function onChangeTrigger(e) {
     }
 }
 
+// This info comes from the output of the python script.
 let json = {
     "Pelipper": {
         "count": 18,
