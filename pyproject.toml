@@ -3,7 +3,7 @@ name = "pokepaste-parser"
 version = "0.1.0"
 description = ""
 authors = ["malaow3 <malaow3@yahoo.com>"]
-readme = "README.md"
+readme = "readme.md"
 packages = [{include = "pokepaste_parser"}]
 
 [tool.poetry.dependencies]
@@ -13,10 +13,8 @@ pylogrus = "^0.4.0"
 asyncio = "^3.4.3"
 aiohttp = "^3.8.4"
 bs4 = "^0.0.1"
-rope = "^1.9.0"
 mypy = "^1.4.1"
 darker = "^1.7.1"
-pylsp-rope = "^0.1.11"
 
 
 [build-system]
